@@ -1,7 +1,6 @@
 EventBus
 ========
 EventBus is a publish/subscribe event bus optimized for Android.<br/>
-<img src="EventBus-Publish-Subscribe.png" width="500" height="187"/>
 
 EventBus...
 
